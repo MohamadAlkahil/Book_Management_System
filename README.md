@@ -6,7 +6,7 @@ The database schema provides the structure for storing and managing information 
 https://www.youtube.com/watch?v=xm3YgoEiEDc
 
 ## ER Diagram
-
+![GitHub Logo](https://github.com/MohamadAlkahil/Book_Management_System/blob/main/ER.png)
 ## Functionality
 - Connecting to the SQLite database using JDBC.
 - Providing a user-friendly menu for selecting various querying options.
